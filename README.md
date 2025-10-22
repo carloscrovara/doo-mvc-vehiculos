@@ -1,6 +1,6 @@
 # Sistema CRUD de Vehículos 🚗🏍️
 
-Sistema de gestión de vehículos con patrón MVC para la materia **Desarrollo Orientado a Objetos**.
+Sistema de gestión de vehículos con patrón MVC.
 
 ---
 
